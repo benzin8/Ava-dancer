@@ -1,0 +1,117 @@
+[2025-04-09 19:56:13.618] [info] file C:\Users\Диана\AppData\Roaming\Tortuga Game Club\appsSettings.json does not exists
+[2025-04-09 19:56:13.621] [info] file C:\Users\Диана\AppData\Roaming\Tortuga Game Club\userSettings.json does not exists
+[2025-04-09 19:56:13.623] [info] Updater init
+[2025-04-09 19:56:13.623] [info] Checking for update
+[2025-04-09 19:56:13.775] [info] App starting...1.21.1
+[2025-04-09 19:56:13.775] [info] C:\Users\Диана\AppData\Local\Programs\Tortuga Game Club\resources\app.asar.unpacked\plugins\pepflashplayer.dll
+[2025-04-09 19:56:13.795] [info] app.ready
+[2025-04-09 19:56:13.853] [info] app.whenReady
+[2025-04-09 19:56:13.854] [info] icon:C:\Users\Диана\AppData\Local\Programs\Tortuga Game Club\resources\app.asar.unpacked\icons\Tgc.png
+[2025-04-09 19:56:14.259] [info] file C:\Users\Диана\AppData\Roaming\Tortuga Game Club\recentNotify.json does not exists
+[2025-04-09 19:56:14.308] [info] POST | https://api.tortuga.club/instance1/gapi/hello
+[2025-04-09 19:56:14.358] [info] GET | https://sun1-17.userapi.com/s/v1/if1/R51O0qSOBrBMrWYtpg_Ned76bNA4JMeOZPbWzWJR-90RL9uPlhlv-R9XzPo-6EPii5lq8504.jpg?quality=96&crop=22,254,1441,1441&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=100x100
+[2025-04-09 19:56:14.460] [info] sendHello {
+  "appsHash": "b06a457c52a15735e5220e69518540ac",
+  "paymentMethodsHash": "343165d1d52ffab5a99bf6c49dbc3fad",
+  "notificationToken": null,
+  "settings": {
+    "features": {
+      "0": {
+        "id": 3,
+        "key": "supportAvailable",
+        "type": "feature",
+        "value": "true"
+      }
+    },
+    "settings": {}
+  },
+  "systemNotifications": {},
+  "balance": 0
+}
+[2025-04-09 19:56:14.460] [info] data.settings {
+  "features": {
+    "0": {
+      "id": 3,
+      "key": "supportAvailable",
+      "type": "feature",
+      "value": "true"
+    }
+  },
+  "settings": {}
+}
+[2025-04-09 19:56:14.468] [info] 757a1461e482a6a934b76c6093d3ee3b b06a457c52a15735e5220e69518540ac
+[2025-04-09 19:56:14.471] [info] update apps list
+[2025-04-09 19:56:14.473] [info] POST | https://api.tortuga.club/instance1/gapi/hello/getUserAppList
+[2025-04-09 19:56:14.474] [info] POST | https://api.tortuga.club/instance1/gapi/hello/getPaymentMethodList
+[2025-04-09 19:56:14.531] [info] new app list received
+[2025-04-09 19:56:14.991] [info] Update for version 1.21.1 is not available (latest version: 1.21.1, downgrade is allowed).
+[2025-04-09 19:56:14.991] [info] Update not available.
+[2025-04-09 19:56:15.280] [info] check tokens
+[2025-04-09 19:56:15.281] [info] icon:C:\Users\Диана\AppData\Local\Programs\Tortuga Game Club\resources\app.asar.unpacked\icons\Tgc.png
+[2025-04-09 19:56:15.952] [info] file C:\Users\Диана\AppData\Roaming\Tortuga Game Club\recentNotify.json does not exists
+[2025-04-09 19:56:16.000] [info] POST | https://api.tortuga.club/instance1/gapi/hello
+[2025-04-09 19:56:16.063] [info] sendHello {
+  "appsHash": "b06a457c52a15735e5220e69518540ac",
+  "paymentMethodsHash": "343165d1d52ffab5a99bf6c49dbc3fad",
+  "notificationToken": null,
+  "settings": {
+    "features": {
+      "0": {
+        "id": 3,
+        "key": "supportAvailable",
+        "type": "feature",
+        "value": "true"
+      }
+    },
+    "settings": {}
+  },
+  "systemNotifications": {},
+  "balance": 0
+}
+[2025-04-09 19:56:16.064] [info] data.settings {
+  "features": {
+    "0": {
+      "id": 3,
+      "key": "supportAvailable",
+      "type": "feature",
+      "value": "true"
+    }
+  },
+  "settings": {}
+}
+[2025-04-09 19:56:16.066] [info] d41d8cd98f00b204e9800998ecf8427e b06a457c52a15735e5220e69518540ac
+[2025-04-09 19:56:16.066] [info] update apps list
+[2025-04-09 19:56:16.067] [info] POST | https://api.tortuga.club/instance1/gapi/hello/getUserAppList
+[2025-04-09 19:56:16.068] [info] POST | https://api.tortuga.club/instance1/gapi/hello/getPaymentMethodList
+[2025-04-09 19:56:16.161] [info] new app list received
+[2025-04-09 19:56:16.165] [info] check tokens
+[2025-04-09 19:56:16.166] [info] HttpService.getRequest
+[2025-04-09 19:56:16.166] [info] HttpService.getRequest https://cdn-sp.tortugasocial.com/avataria-vk/app/resourceVersion.json?
+[2025-04-09 19:56:16.334] [info] GET | https://cdn-sp.tortugasocial.com/avataria-ru/app/pnz-city-container-05.swf?4
+[2025-04-09 19:56:16.336] [info] POST | https://api.tortuga.club/instance1/gapi/stats/logAppStart
+[2025-04-09 19:56:16.457] [info] GET | https://cdn-sp.tortugasocial.com/avataria-vk/app/appconfig_tgc_98.51.3.xml
+[2025-04-09 19:56:16.549] [info] GET | https://cdn-sp.tortugasocial.com/avataria-ru/versions_98.51.3.json
+[2025-04-09 19:56:16.610] [info] GET | https://cdn-sp.tortugasocial.com/avataria-ru/app/pnz-city_98.51.3.swf
+[2025-04-09 19:56:19.907] [info] Init application
+[2025-04-09 19:56:19.909] [info] Init resource versions
+[2025-04-09 19:56:19.909] [info] Init hashes
+[2025-04-09 19:56:19.910] [info] Init shared manager
+[2025-04-09 19:56:19.911] [info] Init configuration
+[2025-04-09 19:56:20.167] [info] Init social connector
+[2025-04-09 19:56:20.181] [info] Adapter: vkontakteIFrame
+[2025-04-09 19:56:20.185] [info] Init context menu
+[2025-04-09 19:56:20.188] [info] Init modules
+[2025-04-09 19:56:20.222] [info] Init server logger
+[2025-04-09 19:56:20.222] [info] Init UI
+[2025-04-09 19:56:20.240] [info] Init embeded animations
+[2025-04-09 19:56:20.244] [info] Install app
+[2025-04-09 19:56:20.245] [info] Installed true
+[2025-04-09 19:56:20.245] [info] Init loading
+[2025-04-09 19:56:20.246] [info] Start account manager
+[2025-04-09 19:56:20.275] [info] GET | https://api.vk.com/crossdomain.xml
+[2025-04-09 19:56:20.407] [info] POST | https://api.vk.com/method/friends.get
+[2025-04-09 19:56:20.424] [info] GET | https://cdn-sp.tortugasocial.com/avataria-ru/swf/AvatarIcons_de7fed2514ca78e8345a5a491012d6b6.swf
+[2025-04-09 19:56:24.372] [info] GET | https://cdn-sp.tortugasocial.com/avataria-ru/swf/ui/UiPassportBackgrounds_ec51a2bdadc0a8d5fb3d5d0045fefda9.swf
+[2025-04-09 19:56:25.200] [info] GET | https://cdn-sp.tortugasocial.com/avataria-ru/swf/UiLang_ru_ae6f5d2b18391eed4990080a86a07f7e.swf
+[2025-04-09 19:56:25.370] [info] GET | https://cdn-sp.tortugasocial.com/avataria-ru/swf/Clan_6a85a9b29424fcfd759294026ffeabba.swf
+[2025-04-09 19:56:33.845] [info] window-all-closed
